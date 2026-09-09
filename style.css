@@ -26,3 +26,14 @@ ul {
 li {
   margin-bottom: 8px;
 }
+.hero {
+  background-color: #4a7c59;
+  color: #ffffff;
+  padding: 60px 20px;
+  margin: -60px -20px 40px -20px;
+  text-align: center;
+}
+
+.hero h1 {
+  color: #ffffff;
+}
